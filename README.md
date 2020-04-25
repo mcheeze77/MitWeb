@@ -1,2 +1,2 @@
 # MitWeb
-WEb
+WEB
